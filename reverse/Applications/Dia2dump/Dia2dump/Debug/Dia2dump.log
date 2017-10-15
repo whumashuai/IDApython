@@ -1,0 +1,8 @@
+﻿  Dia2dump.cpp
+f:\reverse\applications\dia2dump\dia2dump\dia2dump.cpp(240): warning C4477: 'printf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'CDiaBSTR'
+f:\reverse\applications\dia2dump\dia2dump\dia2dump.cpp(274): warning C4101: 'count': unreferenced local variable
+f:\reverse\applications\dia2dump\dia2dump\dia2dump.cpp(273): warning C4101: 'celt': unreferenced local variable
+f:\reverse\applications\dia2dump\dia2dump\dia2dump.cpp(520): warning C4477: 'printf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'CDiaBSTR'
+f:\reverse\applications\dia2dump\dia2dump\dia2dump.cpp(540): warning C4477: 'printf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'CDiaBSTR'
+  Dia2dump.vcxproj -> F:\reverse\Applications\Dia2dump\Debug\Dia2dump.exe
+  Dia2dump.vcxproj -> F:\reverse\Applications\Dia2dump\Debug\Dia2dump.pdb (Full PDB)
